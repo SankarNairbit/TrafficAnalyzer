@@ -15,7 +15,7 @@ vehicles frame by frame, classifies them by type (car, truck, bus, motorcycle,
 bicycle), generates meaningful traffic events, and stores all data with timestamps
 to a structured CSV file for further analysis.
 
-**Stream source used:** https://www.youtube.com/watch?v=1xl0hX-nF2E
+**Stream source used:** https://www.youtube.com/watch?v=u7GyFcQJs98
 
 ---
 
@@ -57,7 +57,7 @@ TrafficAnalyzer/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SankarNairbit/TrafficAnalyzer.git
 cd TrafficAnalyzer
 ```
 
